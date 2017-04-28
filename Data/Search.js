@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/Resources/Topics_Manuals_QS/0 Front Matter/Home.htm'],s:['+','residu'],p:[['+',9],['cooling',17],['incoming',22],['pump',5],['to',23]]});
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/A_Getting Started/Basic Steps.htm'],s:['1'],p:[['1',2],['to',0]]});
